@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3604651" vertical-offset="2629" max-vertical-offset="26562">
-              <caret line="140" column="59" selection-start-line="140" selection-start-column="45" selection-end-line="140" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.65217394" vertical-offset="2565" max-vertical-offset="26562">
+              <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -63,10 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="font-awesome.min.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.040860213" vertical-offset="0" max-vertical-offset="465">
+            <state vertical-scroll-proportion="-0.3275862" vertical-offset="0" max-vertical-offset="171">
               <caret line="1" column="19" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="22" />
               <folding />
             </state>
@@ -552,18 +552,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3604651" vertical-offset="2629" max-vertical-offset="26562">
-          <caret line="140" column="59" selection-start-line="140" selection-start-column="45" selection-end-line="140" selection-end-column="59" />
+        <state vertical-scroll-proportion="-0.3275862" vertical-offset="0" max-vertical-offset="171">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.040860213" vertical-offset="0" max-vertical-offset="465">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.65217394" vertical-offset="2565" max-vertical-offset="26562">
+          <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
           <folding />
         </state>
       </provider>
